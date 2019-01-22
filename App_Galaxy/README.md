@@ -4,6 +4,6 @@
 
 ### 폴더
 
-* EDA
+* 탐사분석_및_변수변환
 * AR
-* 결과
+* Catboost_classification_주요변수분석
